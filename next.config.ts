@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   output: 'export',
   basePath: '/CauchyFunction.github.io',
+  assetPrefix: '/',
   images: {
     unoptimized: true,
   },
